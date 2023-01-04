@@ -5,9 +5,6 @@ Tenho muito gosto por desenvolver aplicativos e ensinar outros devs e iniciarem 
 
 **Atualmente:** Trabalhando como desenvolvedor sênior na Goomer.
 
-**Estudando:** Android Nativo com Kotlin
-
-
 # 📧 Contato:
 
 <a href="mailto:kaiqueocanha@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
