@@ -12,7 +12,7 @@ Tenho muito gosto por desenvolver aplicativos e ensinar outros devs e iniciarem 
 ## 🌐 Redes Sociais:
 <a href="https://instagram.com/kaiqueocanha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
 <a href="https://twitter.com/kaiqueocanha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
-<a href="https://www.youtube.com/c/kaiqueocanhaa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><a/>
+<a href="https://www.youtube.com/c/kaiqueocanha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><a/>
 
 # 💻 Tech Stack:
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
