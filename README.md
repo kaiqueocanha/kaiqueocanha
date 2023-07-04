@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2012 com Java e Kotlin. Começei a programar no IFPR Campus de Paranaguá no Paraná quando iniciei o curso técnico de informática.
+Desenvolvendo apps desde 2012 com Java e Kotlin. Começei a programar no IFPR Campus de Paranaguá no Paraná quando iniciei o curso técnico de informática.
 
 Tenho muito gosto por desenvolver aplicativos e ensinar outros devs e iniciarem na carreira de desenvolvimento Android.
 
