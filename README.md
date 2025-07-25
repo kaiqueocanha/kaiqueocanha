@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# ✅ Sobre mim:
 Desenvolvedor de software com 13 anos de experiência, atuando no mercado desde os 17 anos. Especializado em desenvolvimento mobile (Android e iOS) e back-end, com forte expertise em Kotlin, Java, Swift, C# e PHP.
 
 Atualmente, sou Arquiteto de Soluções Certificado pela AWS e Certified Scrum Product Owner (CSPO®) pela Scrum Alliance, combinando conhecimento técnico com visão estratégica para entrega de produtos digitais de alto impacto.
@@ -30,7 +30,6 @@ Certificações:
 
 ### 🌐 Redes Sociais:
 <a href="https://instagram.com/kaiqueocanha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
-<a href="https://twitter.com/kaiqueocanha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
 <a href="https://www.youtube.com/c/kaiqueocanha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><a/>
 
 ### 📊 GitHub Stats:
