@@ -1,5 +1,5 @@
 # ✅ Sobre mim:
-Desenvolvedor de software com 13 anos de experiência, atuando no mercado desde os 17 anos. Especializado em desenvolvimento mobile (Android e iOS) e back-end, com forte expertise em Kotlin, Java, Swift, C# e PHP.
+Desenvolvedor de software com 13 anos de experiência. Especializado em desenvolvimento mobile (Android e iOS) e back-end, com forte expertise em Kotlin, Java, Swift, C# e PHP.
 
 Atualmente, sou Arquiteto de Soluções Certificado pela AWS e Certified Scrum Product Owner (CSPO®) pela Scrum Alliance, combinando conhecimento técnico com visão estratégica para entrega de produtos digitais de alto impacto.
 
