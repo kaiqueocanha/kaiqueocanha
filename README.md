@@ -1,36 +1,28 @@
-# ✅ Sobre mim:
-Desenvolvedor de software com 13 anos de experiência. Especializado em desenvolvimento mobile (Android e iOS) e back-end, com forte expertise em Kotlin, Java, Swift, C# e PHP.
+# ✅ About Me:
+Software developer with 13 years of experience. Specialized in mobile (Android and iOS) and back-end development, with strong expertise in Kotlin, Java, Swift, C# and PHP.
+I am currently an AWS Certified Solutions Architect and Certified Scrum Product Owner (CSPO®) by Scrum Alliance, combining technical knowledge with strategic vision for delivering high-impact digital products.
+I also have experience with CI/CD, primarily with GitHub Actions.
+Beyond my technical work, I am the founder of OC Treinamentos Profissionais, where I share knowledge and train developers for the tech industry.
 
-Atualmente, sou Arquiteto de Soluções Certificado pela AWS e Certified Scrum Product Owner (CSPO®) pela Scrum Alliance, combinando conhecimento técnico com visão estratégica para entrega de produtos digitais de alto impacto.
+### Main Technologies
+**Languages:**
+- Kotlin | Java | Swift | C# | PHP
 
-Também possuo conhecimento de CI/CD, principalmente com Github Actions.
+**Frameworks and Platforms:**
+- Android | iOS | Laravel | .NET | Spring Boot (Kotlin and Java)
 
-Além da atuação técnica, sou fundador da OC Treinamentos Profissionais, onde compartilho conhecimento e capacito desenvolvedores para o mercado de tecnologia.
+**Certifications:**
+- AWS Certified Solutions Architect
+- CSPO® - Certified Scrum Product Owner (Scrum Alliance)
 
-Principais Tecnologias
+### 📧 Contact:
+<a href="mailto:kaique@ocanha.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kaiqueocanha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/+5541991965121"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-Linguagens:
-
-	•	Kotlin | Java | Swift | C# | PHP
-
-Frameworks e Plataformas:
-
-	•	Android | iOS | Laravel | .NET | Spring Boot (Kotlin e Java)
-
-Certificações:
-
-	•	AWS Certified Solutions Architect
-	•	CSPO® - Certified Scrum Product Owner (Scrum Alliance)
-
-### 📧 Contato:
-
-<a href="mailto:kaique@ocanha.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
-<a href="https://www.linkedin.com/in/kaiqueocanha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
-<a href="https://wa.me/+5541991965121"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
-
-### 🌐 Redes Sociais:
-<a href="https://instagram.com/kaiqueocanha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
-<a href="https://www.youtube.com/c/kaiqueocanha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><a/>
+### 🌐 Social Media:
+<a href="https://instagram.com/kaiqueocanha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/kaiqueocanha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaiqueocanha&theme=default&hide_border=false)
